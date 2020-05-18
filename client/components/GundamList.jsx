@@ -1,6 +1,7 @@
 import React from 'react';
 
 
+
 // const gundam = { gundam }
 
 class GundamList extends React.Component {
